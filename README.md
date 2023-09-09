@@ -1,6 +1,3 @@
-# My-Portfolio-Website
-
-<!DOCTYPE html>
 <html>
     <head>
         <style>
