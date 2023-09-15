@@ -1,17 +1,29 @@
+<!DOCTYPE html>
 <html>
     <head>
-        <style>
-            .box{
-                border-radius: 50%;
-                padding-top: 100px;
-                padding-left: 50%;
-            }
-        </style>
+        <link rel="stylesheet" href="Starting Page.css">
     </head>
-    <body style="background: black;">
-        <header style="padding: 25px; color: black; text-align: center; background-color: lightgray; font-weight: 300; font-size: x-large;">Click on the button bellow to visit my Website<br>Its Just a Demo File</header>
-        <div class="box">
-            <a href="Nishant.html"><button type="button">Click Here</button></a>
+    <body>
+            <div class="container">
+                <div class="container left">
+                    <div class="header-text">
+                        <p>Starting <span>Webpage</span></p>
+                        <h1>Hi, I'm <span id="name">Nishant</span> Dalal<br>From India</h1>
+                    </div>
+                    <div class="image">
+                        <img src="Images/user.png">
+                    </div>
+                </div>
+                
+            <div class="container right">
+                    <div class="white-side">
+                        <p id="web-text">Visit Sample Websites</p>
+                        <a href="Nishant.html"><h1>WebPage 1</h1></a>
+                        <a href="Design_2.html"><h1>WebPage 2</h1></a>
+                    </div>
+                </div>      
         </div>
     </body>
 </html>
+
+<!---->
