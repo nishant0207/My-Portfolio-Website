@@ -19,6 +19,7 @@
                         <p id="web-text">Visit Sample Websites</p>
                         <a href="Nishant.html"><h1>WebPage 1</h1></a>
                         <a href="Design_2.html"><h1>WebPage 2</h1></a>
+                        <a href="Digital Clock/clock.html"><h1>Clock</h1></a>
                     </div>
                 </div>      
         </div>
